@@ -20,6 +20,7 @@ module.exports = {
   twitter: '',
   github: 'yuuttoo',
   linkedin: '',
+  medium: 'yuuttoo'
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
